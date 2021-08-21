@@ -1,0 +1,2 @@
+an Apex class that inserts a new account named after an incoming parameter. If the account is successfully inserted, the method should return the account record. If a DML exception occurs, the method should return null
+Create an opportunity method
